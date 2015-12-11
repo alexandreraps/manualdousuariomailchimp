@@ -42,3 +42,7 @@ Para mais detalhes sobre as vantagens de se ter um plano gratuito acesse o link 
 **High volume sender** (Alto volume de remetentes): permite criar uma conta para ter mais de 600.000 assinantes.
 
 **Pay as you go** O plano Pay as you go é um plano onde não há necessidade de cadastro, com ele é possível comprar "créditos" e com esses créditos usar os disparos de e-mail conforme a necessidade.
+
+##Interface
+
+A interface do MailChimp é uma interface bastante limpa, o que proporciona uma grande sensação de uma ferramenta simples de se usar o que cativa usuários de todos os níveis.
