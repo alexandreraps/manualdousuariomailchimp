@@ -18,5 +18,20 @@ Agora é hora de finalizar o cadastro, para isso preencha os campos que aparecer
 
 ![](mailchimp-criando_conta_5.png)
 
+Mais abaixo, preencher as informações da empresa/projeto tais como:
 
+- Quantas pessoas há na sua empresa;
+- Idade;
+- Se você tem uma lista de e-mails para importar para o MailChimp;
+- Se você está criando essa conta para um cliente;
+
+![](mailchimp-criando_conta_6.png)
+
+Mais informações da empresa/projeto:
+
+- Nome da organização
+- Site
+- Endereço
+
+![](mailchimp-criando_conta_7.png)
 
