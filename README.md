@@ -57,3 +57,11 @@ Ao fazer login é apresentado ao usuário as atividades recentes da sua lista, i
 
 O MailChimp possui a possibilidade de integração com diversas plataformas. Para verificar a integração do MailChimp clique na área superior do site no seu nome de usuário e acesse a opção Account.
 
+![](mailchimp-integracao.png)
+
+Na janela que abre a seguir clique em Integrations.
+
+![](mailchimp-integracao_1.png)
+
+É possível fazer integração com plataformas como, Facebook, Twitter, Google Analytics entre outras.
+
