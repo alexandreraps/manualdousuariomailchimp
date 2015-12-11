@@ -31,9 +31,14 @@ Para completar a facilidade de criação de campanhas, o MailChimp ainda oferece
 
 O MailChimp possui entre seus diversos planos a possibilidade de criar uma conta gratuita, a conta gratuita da plataforma leva uma vantagem enorme em relação aos seus concorrentes devido a possibilidade de ser inserido um grande número de assinantes.
 As principais características do plano gratuito são:
-●	Até 2000 inscritos
-●	12.000 envios de e-mails por mês
+
+* Até 2000 inscritos
+* 12.000 envios de e-mails por mês
+
 Para mais detalhes sobre as vantagens de se ter um plano gratuito acesse o link http://mailchimp.com/pricing/free/
-Growing Business (Negócio crescente): permite criar uma conta para ter até 600.000 assinantes
-High volume sender (Alto volume de remetentes): permite criar uma conta para ter mais de 600.000 assinantes
-Pay as you go O plano Pay as you go é um plano onde não há necessidade de cadastro, com ele é possível comprar "créditos" e com esses créditos usar os disparos de e-mail conforme a necessidade.
+
+**Growing Business** (Negócio crescente): permite criar uma conta para ter até 600.000 assinantes.
+
+**High volume sender** (Alto volume de remetentes): permite criar uma conta para ter mais de 600.000 assinantes.
+
+**Pay as you go** O plano Pay as you go é um plano onde não há necessidade de cadastro, com ele é possível comprar "créditos" e com esses créditos usar os disparos de e-mail conforme a necessidade.
