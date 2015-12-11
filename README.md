@@ -46,3 +46,14 @@ Para mais detalhes sobre as vantagens de se ter um plano gratuito acesse o link 
 ##Interface
 
 A interface do MailChimp é uma interface bastante limpa, o que proporciona uma grande sensação de uma ferramenta simples de se usar o que cativa usuários de todos os níveis.
+
+![](mailchimp-interface.png)
+
+Ao fazer login é apresentado ao usuário as atividades recentes da sua lista, isto é bastante útil pois permite obter informações chave como a última vez em que foi logado ou disparou uma campanha.
+
+![](mailchimp-interface_1.png)
+
+##Integração
+
+O MailChimp possui a possibilidade de integração com diversas plataformas. Para verificar a integração do MailChimp clique na área superior do site no seu nome de usuário e acesse a opção Account.
+
