@@ -1,7 +1,7 @@
 # Summary
 
 * [Introdução](README.md)
-   * [intro1.1](intro1.1.md)
+   * [O que é o e-mail marketing?](intro1.1.md)
        * [Intro1.2](intro1.2.md)
 * [Capítulo 1](chapter1.md)
 * [Capítulo 2](capitulo_2.md)
