@@ -2,19 +2,19 @@
 
 As listas no MailChimp nada mais é que um Banco de Dados onde ficam cadastrados os e-mails das pessoas para quem vamos disparar os e-mails portanto antes de criarmos alguma lista devemos considerar os seguintes pontos:
 
-## Separe suas listas por tipo de cliente
+### Separe suas listas por tipo de cliente
 
 Para manter uma organização plena das listas no MailChimp é altamente recomendável que sejam criadas listas diferentes para cada propósito, porém não é ideal criar listas o tempo todo, o melhor, pelo menos no inicio é bom criar apenas uma lista, assim, mantendo-a atualizada o tempo todo, se o seu desejo é direcionar seções específicas de uma única lista, use grupos na mesma. Isso ajuda a reduzir o volume de tarefas.
 
-## Não exclua as listas se não for extremamente necessário
+### Não exclua as listas se não for extremamente necessário
 
 Uma vez apagando uma lista podemos dizer que todo o histórico com o cliente foi perdida, não apagando uma lista evitamos, por exemplo, que perdemos clientes inativos.
 
-## Exclusão e cancelamento de assinatura
+### Exclusão e cancelamento de assinatura
 
 Quando alguém da sua lista cancela sua assinatura significa que não querem mais receber os e-mails, sendo assim devem ser excluídos, você ainda pode encontrá-los  em sua lista, envie-os para o perfil "Subscription Cancelado", só tome cuidado para não importar novamente os contatos cancelados acidentalmente na lista de ativos.
 
-## Criando Listas
+### Criando Listas
 
 ![](mailchimp-criando_listas.png)
 
@@ -56,7 +56,7 @@ Há duas maneiras de acrescentar e-mails à lista:
 * **Add a subscriber**: Permite adicionar e-mails de forma individual.
 * **Import subscribers**: Permite importar vários e-mails de uma só vez, esses e-mails podem ser importados de diversas formas, arquivos CSV, de contas de e-mail e etc.
 
-## Add a subscriber - Adicionar um assinante
+### Add a subscriber - Adicionar um assinante
 
 Cadastrar e-mails individualmente para uma lista.
 Em Add subscribers clique em Add a subscriber
@@ -69,7 +69,7 @@ Após o preenchimento clique para confirmar que temos a autorização da pessoa 
 
 Clique no botão **Subscriber** para finalizar.
 
-## Import subscribers - importar dos e-mails
+### Import subscribers - importar dos e-mails
 
 Se escolhermos a opção **Imports subscribers**, podemos cadastrar vários e-mails de uma só vez usando nossos arquivos ou as integrações oferecidas pelo MailChimp como podemos ver na imagem a seguir:
 
@@ -79,7 +79,7 @@ Se escolhermos a opção **Imports subscribers**, podemos cadastrar vários e-ma
 * Copy/Paste from file: Com esta opção podemos copiar e colar os dados de um arquivo Excel.
 * Integrated service: Permite usar uma das muitas integrações que o MailChimp oferece.
 
-## Criando grupos em uma lista
+### Criando grupos em uma lista
 
 Os grupos são uma ferramenta muito poderosa quando temos como alvo assinantes com distintos interesses e preferências dentro de uma lista, assim não temos que gerenciar diversas listas.  Os grupos podem ser usados para qualquer coisa que desejamos filtrar a lista.
 
