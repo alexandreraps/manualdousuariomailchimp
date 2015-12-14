@@ -11,4 +11,5 @@
 * [Capítulo 6](capitulo_6.md)
 * [Capítulo 7](capitulo_7.md)
 * [Capítulo 8](capitulo_8.md)
+* Separe suas listas por tipo de cliente
 
