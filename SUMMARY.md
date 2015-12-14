@@ -10,7 +10,9 @@
 * [Capítulo 6](capitulo_6.md)
 * [Capítulo 7](capitulo_7.md)
 * [Capítulo 8](capitulo_8.md)
-* [Introdução](part1/readmemd.md)
+
+
+* [Introdução](part1/readme.md)
    * [Subtítulo](part1/subtitulo.md)
    * [GitBook is nice](part1/gitbook.md)
 * [Part II](part2/readmemd.md)
