@@ -12,6 +12,6 @@
 * [Capítulo 8](capitulo_8.md)
 
 
-* [Introdução](readme.md)
+* [Introdução](README.md)
    * [Subtítulo](subtitulo_1.md)
 
