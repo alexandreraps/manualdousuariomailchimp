@@ -1,2 +1,3 @@
 # Separe suas listas por tipo de cliente
 
+Para manter uma organização plena das listas no MailChimp é altamente recomendável que sejam criadas listas diferentes para cada propósito, porém não é ideal criar listas o tempo todo, o melhor, pelo menos no inicio é bom criar apenas uma lista, assim, mantendo-a atualizada o tempo todo, se o seu desejo é direcionar seções específicas de uma única lista, use grupos na mesma. Isso ajuda a reduzir o volume de tarefas.
