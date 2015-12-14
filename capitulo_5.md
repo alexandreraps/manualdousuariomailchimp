@@ -34,4 +34,3 @@ Após clicar em **View Report** teremos uma janela como mostra a figura a seguir
 * **Social performance**: Exibe uma visão geral de como está sua campanha nas redes sociais;
 * **Top locations**: Mostra em que lugares do mundo os assinantes estão abrindo as campanhas;
 
-
