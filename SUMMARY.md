@@ -11,3 +11,9 @@
 * [Capítulo 7](capitulo_7.md)
 * [Capítulo 8](capitulo_8.md)
 
+* [Introdução](part1/README.md)
+    * [Subtítulo](part1/subtitulo.md)
+    * [GitBook is nice](part1/gitbook.md)
+* [Part II](part2/README.md)
+    * [We love feedback](part2/feedback_please.md)
+    * [Better tools for authors](part2/better_tools.md)
