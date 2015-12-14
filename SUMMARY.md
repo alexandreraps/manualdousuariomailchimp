@@ -1,7 +1,7 @@
 # Summary
 
 * [Introdução](README.md)
-     * [Subtitulo 1](subtitulo_1.md)
+   * [Subtitulo 1](intro1.1.md)
 * [Capítulo 1](chapter1.md)
 * [Capítulo 2](capitulo_2.md)
 * [Capítulo 3](capitulo_3.md)
@@ -10,8 +10,4 @@
 * [Capítulo 6](capitulo_6.md)
 * [Capítulo 7](capitulo_7.md)
 * [Capítulo 8](capitulo_8.md)
-
-
-* [Introdução](README.md)
-   * [Subtítulo](subtitulo_1.md)
 
