@@ -6,7 +6,7 @@ Para criar uma campanha clique em **Create Campaign** na parte superior da tela.
 
 ![](mailchimp-campanhas.png)
 
-Para criar uma campanha clique em Create Campaign na parte superior da tela.
+Para criar uma campanha clique em **Create Campaign** na parte superior da tela.
 
 * **Regular Campaign**: Criamos uma campanha simples, usual;
 * **Plain-Text Campaign**: Enviar um e-mail simples de texto simples, sem imagens ou formatação;
@@ -23,7 +23,7 @@ Clique em **Regular Campaign**, na janela seguinte é necessário preencher algu
 * **From e-mail address**: Digite aqui o e-mail do remetente para qual as pessoas possam responder ao e-mail caso queiram;
 * **Saved Template**: Para adicionar um template personalizado, depois disso, edite o conteúdo conforme necessário;
 
-## Personalizando uma Campanha
+### Personalizando uma Campanha
 
 Para personalizar uma campanha é muito simples, tudo o que devemos fazer é clicar sobre um componente do design do lado esquerdo que do lado direito veremos tudo o que é possível personalizar no mesmo, na imagem abaixo vemos como personalizar a aparência do texto.
 
@@ -71,7 +71,7 @@ Nessa tela conseguimos enxergar todos os passos que foram feitos anteriormente a
 
 ### Social Cards
 
-O Social Cards é uma forma de integração da sua campanha com as rede sociais, com ele podemos criar um "resumo" da campanha para ser compartilhado em redes sociais como Facebook e Twitter.
+O **Social Cards** é uma forma de integração da sua campanha com as rede sociais, com ele podemos criar um "resumo" da campanha para ser compartilhado em redes sociais como Facebook e Twitter.
 
 ![](mailchimp-social_card.png)
 
