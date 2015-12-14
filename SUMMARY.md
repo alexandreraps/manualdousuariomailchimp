@@ -10,3 +10,9 @@
 * [Capítulo 7](capitulo_7.md)
 * [Capítulo 8](capitulo_8.md)
 
+* [Part I](part1/README.md)
+    * [teste](part1/chapter1.md)
+    * [teste1](part1/capitulo_3.md)
+* [Part II](part2/README.md)
+    * [We love feedback](part2/feedback_please.md)
+    * [Better tools for authors](part2/better_tools.md)
