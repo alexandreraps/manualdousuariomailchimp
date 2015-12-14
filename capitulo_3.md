@@ -6,7 +6,7 @@ Podemos escolher entre os diversos templates disponíveis na plataforma ou podem
 
 ![](mailchimp-templates.png)
 
-No menu superior clique em Templates, em seguida, Create New Template,iremos encontrar uma janela como mostra a imagem abaixo, onde temos 3 maneiras de criar um template:
+No menu superior clique em Templates, em seguida, **Create New Template**,iremos encontrar uma janela como mostra a imagem abaixo, onde temos 3 maneiras de criar um template:
 
 ![](mailchimp-templates_1.png)
 
