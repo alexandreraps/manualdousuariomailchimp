@@ -21,7 +21,7 @@ Ao fazer um teste A/B é muito importante analisar o desempenho de cada uma das 
 
 ### Criando um teste A/B para uma campanha
 
-Vá até a página de campanhas clicando em Campaing, em seguida clique em **Create Campaign**, **A/B Split Campaing**.
+Vá até a página de campanhas clicando em **Campaing**, em seguida clique em **Create Campaign**, **A/B Split Campaing**.
 
 Selecione o que deve ser testado logo abaixo de **What would you like to test**?
 
@@ -47,7 +47,7 @@ Agora defina os parâmetros da campanha em E-mail subject, From Names e etc.
 
 ![](mailchimp-teste_a-b_4.png)
 
-Clique em **Next** e escolha algum dos template disponíveis, em seguida clique em Next novamente para a etapa de Design, deve-se notar que o mesmo conteúdo irá para ambas as mensagens, exceto quando você decidir tetar o conteúdo, feito as devidas configurações clique em **Next** novamente para a etapa final Confirm.
+Clique em **Next** e escolha algum dos template disponíveis, em seguida clique em Next novamente para a etapa de Design, deve-se notar que o mesmo conteúdo irá para ambas as mensagens, exceto quando você decidir tentar o conteúdo, feito as devidas configurações clique em **Next** novamente para a etapa final **Confirm**.
 
 Revise todos os passos feitos até então, se você optou por testar **Subject lines** e From names, poderá enviar o e-mail diretamente em **Send Now** ou se preferir agendar. Se optar por testar o dia e horário o e entrega Delivery Date/time clique em **Schedule** e defina as datas e horários antes de clicar em **Schedule Campaign**.
 
@@ -55,7 +55,7 @@ Revise todos os passos feitos até então, se você optou por testar **Subject l
 
 ### Escolha manual do vencedor
 
-No menu onde você cria a campanha e logo abaixo de How should a winner be chosen?, selecione o item Manual.
+No menu onde você cria a campanha e logo abaixo de **How should a winner be chosen?**, selecione o item Manual.
 
 ![](mailchimp-teste_a-b_7.png)
 
