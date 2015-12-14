@@ -22,8 +22,7 @@ Digite o seu e-mail com o domínio que quer validar em seguida clique em **Send 
 
 ![](mailchimp-verificacao_dominio_3.png)
 
-
-Após isso verifique no seu e-mail e notará q foi enviado um e-mail do MailChimp, abra o e-mail, em seguida clique no link V**erify Domain Access** ou copie o código de verificação e cole na janela do MailChimp.
+Após isso verifique no seu e-mail e notará que foi enviado um e-mail do MailChimp, abra o e-mail, em seguida clique no link **Verify Domain Access** ou copie o código de verificação e cole na janela do MailChimp.
 
 Aparecerá uma mensagem dizendo que o domínio foi verificado com êxito, clique em Done para fechar a janela pop-up para verificar os domínios.
 
@@ -43,13 +42,13 @@ Digite o e-mail do domínio a ser verificado em seguida clique em **Send Verific
 
 ![](mailchimp-verificacao_dominio_4.png)
 
-Excluir um domínio já verificado
+### Excluir um domínio já verificado
 
 Caso necessário pode-se remover um domínio da lista de domínios verificados a qualquer momento, para isso basta seguir os passos abaixo:
 
 Clique no seu nome de perfil para abrir o Painel de conta e clique em **Account**.
 
-No menu **Settings** em seguida Verified Domains, do lado direito do domínio que deseja-se apagar, clique no botão Excluir, na janela de confirmação clique novamente em excluir.
+No menu **Settings** em seguida **Verified Domains**, do lado direito do domínio que deseja-se apagar, clique no botão Excluir, na janela de confirmação clique novamente em excluir.
 
 A janela será atualizada e exibirá em seguida uma mensagem de sucesso.
 
