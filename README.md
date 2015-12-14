@@ -4,7 +4,7 @@ No mundo do Marketing Digital a prática do e-mail Marketing é uma das principa
 Na era das redes sociais, o e-mail marketing mais uma vez prova ser uma ótima forma de comunicação, tanto para aperfeiçoar a comunicação nas redes sociais como para um publico que não está nelas.
 
 
-### O que é o e-mail marketing?
+## O que é o e-mail marketing?
 
 
 E-mails Marketing nada mais são que uma prática que consiste no envio de e-mails a um banco de dados de clientes ou clientes potenciais que foram cadastrados através de alguma landing page, no MailChimp não é recomendável sem a autorização do destinatário, caso isso aconteça pode acontecer desde o cancelamento do envio da campanha até a exclusão do usuário do administrador da conta do MailChimp.
