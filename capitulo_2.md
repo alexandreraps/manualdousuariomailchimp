@@ -2,7 +2,7 @@
 
 As listas no MailChimp nada mais é que um Banco de Dados onde ficam cadastrados os e-mails das pessoas para quem vamos disparar os e-mails portanto antes de criarmos alguma lista devemos considerar os seguintes pontos:
 
-### Separe suas listas por tipo de cliente
+## Separe suas listas por tipo de cliente
 
 Para manter uma organização plena das listas no MailChimp é altamente recomendável que sejam criadas listas diferentes para cada propósito, porém não é ideal criar listas o tempo todo, o melhor, pelo menos no inicio é bom criar apenas uma lista, assim, mantendo-a atualizada o tempo todo, se o seu desejo é direcionar seções específicas de uma única lista, use grupos na mesma. Isso ajuda a reduzir o volume de tarefas.
 
@@ -83,7 +83,66 @@ Se escolhermos a opção **Imports subscribers**, podemos cadastrar vários e-ma
 
 Os grupos são uma ferramenta muito poderosa quando temos como alvo assinantes com distintos interesses e preferências dentro de uma lista, assim não temos que gerenciar diversas listas.  Os grupos podem ser usados para qualquer coisa que desejamos filtrar a lista.
 
-Para criar grupos clique em List na parte superior direita da tela do MailChimp, clique sobre o nome da lista onde deseja fazer o grupo. Clique no menu Manage Subscribers em seguida em Groups.
+Para criar grupos clique em List na parte superior direita da tela do MailChimp, clique sobre o nome da lista onde deseja fazer o grupo. Clique no menu **Manage Subscribers** em seguida em **Groups**.
 
 Clique em **Create Groups** localizado na parte superior direita da tela como mostra a imagem abaixo:
 
+![](mailchimp-grupos.png)
+
+Selecione uma opção de como os grupos irá aparecer em seu formulário de inscrição, ou selecione a opção para não exibi-los.
+
+![](mailchimp-grupos_1.png)
+
+* As checkboxes "caixas de seleção": as pessoas podem selecionar mais de um;
+* As radio buttons "botões de rádio": as pessoas podem selecionar apenas um;
+* As a dropdown: as pessoas podem selecionar apenas uma;
+* Don't show these groups on my signup form: Não mostrar esses grupos no meu formulário de inscrição;
+
+Crie um título para o grupo e um nome de Grupo. O título de grupo serve como uma categoria geral para os grupos, a fim de manter as opções semelhantes em conjunto, e é visível para os assinantes. É melhor escolher algo descritivo, como "O que achou dos nossos serviços?" e usar os nomes de grupo para apresentar diferentes opções.
+
+Para adicionar mais nomes de grupo, clique no botão **Add Group Button**.
+
+Clique em **Save**.
+
+Aparecerá uma mensagem indicando que o processo foi realizado com sucesso, você pode optar por importar estes grupos (**Import to These Groups**) ou clique em Concluído (**Done For Now**).
+
+![](mailchimp-grupos_2.png)
+
+Um erro muito comum, que muitos cometem, é enviar o mesmo e-mail para todos, todas às vezes, isso é um erro porque se pararmos para pensar existe dentro de uma lista uma grande mistura de potenciais clientes.
+
+Podemos fazer uma segmentação, por exemplo, para eliminar os assinantes inativos, ou seja, aqueles que faz algum tempo que não tem aberto os e-mails durante um grande período de tempo.
+
+Clique em Lists na parte superior direita do MailChimp, em seguida clique na lista em questão, em **Manage subscribers** clique em **Segments**.
+
+Por último clique em **Create Segment**, teremos uma janela como mostra a figura abaixo:
+
+![](mailchimp-segmento.png)
+
+Na janela que abriu devemos criar uma regra para a segmentação, no caso da figura abaixo estamos segmentando a lista para os assinantes que não abriram os 5 últimos e-mails, imaginando assim que iremos apagar da nossa lista esses e-mails.
+
+![](mailchimp-segmento_1.png)
+
+Pode-se criar uma nova condição clicando em **Add Condition** e fazer uma pré-visualização do segmento clicando em **Preview Segment**.
+
+Clique em **Preview Segment** para visualizar o segmento, se estiver de acordo com as expectativas clique em **Save Segment**.
+
+A listagem de tipos de segmentação é muito grande e vai de acordo com as necessidades do administrador da lista, na imagem abaixo vemos em Campaign Activity, podemos utilizar os critérios:
+
+![](mailchimp-segmento_4.png)
+
+* opened (aberto)
+* clicked (clicado)
+* was sent (foi enviado)
+* did not open (não abriu)
+* did not click (não clicou)
+* was not sent (não foi enviado)
+
+e ao lado temos:
+
+![](mailchimp-segmento_5.png)
+
+* Any of the Last 5 Campaigns (Qualquer das últimas 5 Campanhas)
+* Any Recent Campaigns (Quaisquer Campanhas recentes)
+* All of the Last 5 Campaigns (Todas as últimas 5 Campanhas)
+
+Então em um exemplo simples basta só combinar as diversas opções de critérios para fazer a segmentação de acordo com as necessidades.
