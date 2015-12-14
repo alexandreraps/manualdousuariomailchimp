@@ -12,8 +12,8 @@
 * [Capítulo 8](capitulo_8.md)
 
 
-* [Introdução](part1/readme.md)
-   * [Subtítulo](part1/subtitulo.md)
+* [Introdução](readme.md)
+   * [Subtítulo](subtitulo.md)
    * [GitBook is nice](part1/gitbook.md)
 * [Part II](part2/readmemd.md)
    * [We love feedback](part2/feedback_please.md)
