@@ -35,3 +35,12 @@ Mais informações da empresa/projeto:
 
 ![](mailchimp-criando_conta_7.png)
 
+Mais informações da empresa/projeto:
+- O setor da organização
+- Fuso horário
+- Foto do perfil (opcional)
+
+![](mailchimp-criando_conta_8.png)
+
+Para finalizar clique no botão **Save And Get Started**.
+
