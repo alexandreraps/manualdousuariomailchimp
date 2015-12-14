@@ -30,7 +30,7 @@ A opção Subscribe é a principal opção que vamos trabalhar, nela estão cont
 
 ### Criando o formulário - Build it
 
-Em Build it selecionamos os campos que devem compor o formulário, o ideal é que tenha a menor quantidade de campos possível, assim as chances de as pessoas estarem dispostas a se cadastrar em sua lista vai ser maior pois não terão que preencher um volume grande de campos, o melhor é pedir apenas o nome, sobrenome e e-mail, para alterar o nome dos campos basta clicar em cima do mesmo para modificar, o nome dos campos é alterado em Field Label, para salvar as alterações clique em **Save Field**.
+Em **Build it** selecionamos os campos que devem compor o formulário, o ideal é que tenha a menor quantidade de campos possível, assim as chances de as pessoas estarem dispostas a se cadastrar em sua lista vai ser maior pois não terão que preencher um volume grande de campos, o melhor é pedir apenas o nome, sobrenome e e-mail, para alterar o nome dos campos basta clicar em cima do mesmo para modificar, o nome dos campos é alterado em **Field Label**, para salvar as alterações clique em **Save Field**.
 
 ![](mailchimp-formulario_2.png)
 
@@ -42,13 +42,13 @@ Podemos estilizar o formulário utilizando a função Design it, aqui selecionam
 
 ### Traduzindo o formulário Translate it
 
-Aqui podemos selecionar o idioma "oficial", após escolher o idioma em Set Default Language temos que modificar os textos de acordo com as necessidades.
+Aqui podemos selecionar o idioma "oficial", após escolher o idioma em **Set Default Language** temos que modificar os textos de acordo com as necessidades.
 
 ![](mailchimp-formulario_5.png)
 
 ### Compartilhando o Formulário - Share it
 
-A opção Share it permite que após o formulário for criado possamos compartilhá-lo em um site da web, para isso volte para a opção Signup forms clique sobre Embedded forms, aqui será gerado um código HTML que deveria ser inserido no site para que o formulário apareça.
+A opção **Share it** permite que após o formulário for criado possamos compartilhá-lo em um site da web, para isso volte para a opção **Signup forms** clique sobre Embedded forms, aqui será gerado um código HTML que deveria ser inserido no site para que o formulário apareça.
 
 ![](mailchimp-formulario_6.png)
 
