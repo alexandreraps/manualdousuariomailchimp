@@ -1,7 +1,6 @@
 # Summary
 
 * [Introdução](README.md)
-   * [Tipos de planos](intro1.2.md)
 * [Capítulo 1 | Criando uma Conta](chapter1.md)
 * [Capítulo 2 | Listas](capitulo_2.md)
    * [Separe suas listas por tipo de cliente](separe_suas_listas_por_tipo_de_cliente.md)
