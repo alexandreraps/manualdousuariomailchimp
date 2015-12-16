@@ -10,6 +10,6 @@
 * [Capítulo 4 | Campanhas](capitulo_4.md)
 * [Capítulo 5 | Relatórios](capitulo_5.md)
 * [Capítulo 6 | Formulários](capitulo_6.md)
-* [Capítulo 7](capitulo_7.md)
+* [Capítulo 7 | Teste A/B](capitulo_7.md)
 * [Capítulo 8](capitulo_8.md)
 
