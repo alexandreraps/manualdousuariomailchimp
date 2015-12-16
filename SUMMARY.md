@@ -1,7 +1,6 @@
 # Summary
 
 * [Introdução](README.md)
-   * [O que é o e-mail marketing?](intro1.1.md)
    * [Tipos de planos](intro1.2.md)
 * [Capítulo 1 | Criando uma Conta](chapter1.md)
 * [Capítulo 2 | Listas](capitulo_2.md)
